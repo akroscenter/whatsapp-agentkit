@@ -18,7 +18,7 @@ dist/
 build/
 
 # Knowledge (archivos privados del negocio)
-knowledge/*
+knowledge/*.local.md
 !knowledge/.gitkeep
 
 # Session state

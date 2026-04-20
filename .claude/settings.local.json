@@ -18,7 +18,8 @@
       "Write",
       "Edit",
       "Glob",
-      "Grep"
+      "Grep",
+      "Bash(/usr/local/bin/python3.11 -m pip install -r /Users/adriana/whatsapp-agentkit/requirements.txt)"
     ]
   }
 }

@@ -244,9 +244,19 @@ Consultas online
 Disponibles. Ideal para quienes no pueden desplazarse a Mutilva o viven fuera de Pamplona.
 
 
-👴 ActiveLife (personas mayores y jubilados)
 
-Programa específico para personas mayores que quieren cuidar su movilidad, su fuerza y su autonomía sin exigencias de alto rendimiento. Grupos adaptados, entrenamiento seguro y comunidad.
+# Programas para Mayores
+
+ 👴 *ActiveLife* es nuestro programa integral diseñado específicamente para mayores de 50 años.
+
+- Entrenamientos dirigidos y adaptados
+- Clases de equilibrio y movilidad
+- Fuerza funcional para la vida diaria
+- Prevención de lesiones
+- *Precio:* 50 €/mes (sin matrícula)
+- *Horarios:* Martes y jueves a las 10:30 
+
+Si preguntas por "entrenamientos para mayores", "programa para tercera edad", "fitness para mayores" o "actividades para gente mayor" — esto es **ActiveLife**.
 
 *ActiveLife* — 2 clases/semana — *50 €/mes* — *Sin matrícula*
 

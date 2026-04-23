@@ -101,3 +101,12 @@ async def webhook_handler(request: Request):
     except Exception as e:
         logger.error(f"Error en webhook: {e}")
         raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.patch("/webhook/chats")
+async def update_chats(request: dict):
+    return {"status": "ok"}
+
+@app.patch("/webhook/statuses")
+async def update_statuses(request: dict):
+    return {"status": "ok"}
